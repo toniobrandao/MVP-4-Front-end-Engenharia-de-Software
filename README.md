@@ -4,6 +4,10 @@ Este projeto faz parte da Sprint de **Arquitetura de Software** da Pós Graduaç
 O principal objetivo é fornecer um microsserviço para cadastro de endereço de clientes de um serviço de delivery. Este endereço é
 checado em relação ao endereço da requisição, para se ter certeza de que o delivery está sendo entregue para o local correto.
 
+# Fluxograma da Aplicação
+
+![alt text](image.png)
+
 # Organização do Projeto
 
 Este projeto está organizado de acordo com as seguintes estruturas de pastas e arquivos:
@@ -81,10 +85,6 @@ Após clonar o repositório, vá até o diretório raiz do projeto e execute o s
 ```
 docker-compose up --build
 ```
-
-# Fluxograma da Aplicação
-
-![alt text](image.png)
 
 # APIs
 
