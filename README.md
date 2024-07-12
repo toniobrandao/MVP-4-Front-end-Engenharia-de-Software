@@ -108,10 +108,11 @@ preenchimento dos dados como Rua, Cidade e Estado. Para seu uso, não é necess�
 
 Essa API utilizada é embutida no Navegador. Portanto, não faz uso direto de nenhuma rota. Não é necessário cadastro nem licença de uso.
 Sua utilização é feita a partir da função:
-
 ```
 navigator.geolocation.getCurrentPosition()
 ```
+
+Para mais informações, acesse: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition
 
 ### API de de Localização do Google Maps
 
